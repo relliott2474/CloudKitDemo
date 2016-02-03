@@ -47,7 +47,7 @@ class ListNotesViewController: UIViewController, UITableViewDelegate, UITableVie
     }
     
     func tableView(tableView: UITableView, heightForRowAtIndexPath indexPath: NSIndexPath) -> CGFloat {
-        return 0.0
+        return 20.0
     }
 }
 
